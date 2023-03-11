@@ -1,0 +1,14 @@
+{
+  "name": "databases",
+  "version": "1.0.0",
+  "description": "Testes de conexão e manipulação do Redis",
+  "main": "redis.js",
+  "scripts": {
+    "test": "node redis.js"
+  },
+  "author": "Rafael Cardoso",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^4.6.5"
+  }
+}
